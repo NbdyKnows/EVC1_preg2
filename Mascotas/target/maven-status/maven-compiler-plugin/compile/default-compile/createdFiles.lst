@@ -1,0 +1,4 @@
+com\example\accessingdatamysql\PetsRepository.class
+com\example\accessingdatamysql\AccessingDataMysqlApplication.class
+com\example\accessingdatamysql\MainController.class
+com\example\accessingdatamysql\Pets.class
